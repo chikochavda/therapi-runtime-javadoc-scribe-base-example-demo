@@ -1,0 +1,5 @@
+ChikoIncDemoApp : This is start up file for spring boot
+
+
+Use this url to get result for documentation
+localhost:8089/test-class-documentation
